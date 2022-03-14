@@ -1,0 +1,2 @@
+To compile the program, type "javac *.java" into the terminal. If the input is a file, to run the program type "java Main file" and the name of the file. If the input is a string, type "java Main" and the string.
+The output will be each character from the input and its prefix code, along with the encoded message and the decoded message.
